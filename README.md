@@ -1,2 +1,3 @@
 # cse110
-The begining of my programming journey 
+The beginning of my programming journey. This course focuses on variables, decisions, calculations, loops, arrays, and input/output. 
+
